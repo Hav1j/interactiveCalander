@@ -1,0 +1,22 @@
+[{
+        "id": "1",
+        "activity": "lunch",
+        "startDate": "2019-02-26 12:00",
+        "endDate": "2019-02-26 13:00",
+        "location": "Lagerhuset"
+    },
+    {
+        "id": "2",
+        "activity": "meeting",
+        "startDate": "2019-02-26 22:00",
+        "endDate": "2019-02-27 07:00",
+        "location": "online"
+    },
+    {
+        "id": "3",
+        "activity": "meeting",
+        "startDate": "2019-02-26 10:00",
+        "endDate": "2019-02-26 12:00",
+        "location": "Lagerhuset"
+    }
+]
